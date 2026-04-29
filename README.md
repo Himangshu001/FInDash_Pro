@@ -78,12 +78,14 @@ The application will automatically open in your default browser at `http://local
 1. Open the dashboard in your web browser.
 2. In the left sidebar, drag and drop one or multiple Financial PDF documents.
    For testing some of the example documents are provided please click on the following links:
+   
          * "https://drive.google.com/file/d/1lOLyaDs-685BVt32GIKmj6U6PgUVQKzV/view?usp=drivesdk"
          * "https://drive.google.com/file/d/1ujyhYI4WXvizgpx5tPwsT6iSkviU3x1L/view?usp=drivesdk"
          * "https://drive.google.com/file/d/1Z47VYnHQkS_kWGMO5OWEwlhfAN25YOeG/view?usp=drivesdk"
-3. Wait for the backend to process the document and extract KPIs.
-4. Explore the **Executive Summary** and **Visual Analytics** tabs.
-5. Use the **Document Intelligence** chat on the right to query the contents of your documents.
+   
+4. Wait for the backend to process the document and extract KPIs.
+5. Explore the **Executive Summary** and **Visual Analytics** tabs.
+6. Use the **Document Intelligence** chat on the right to query the contents of your documents.
 
 ## 📝 License
 This project is proprietary and built for enterprise financial analysis.
